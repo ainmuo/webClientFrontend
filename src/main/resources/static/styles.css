@@ -1,0 +1,15 @@
+/* src/main/resources/static/styles.css */
+nav {
+    background-color: #f8f9fa;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
